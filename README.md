@@ -356,10 +356,7 @@ apellido-nombre-proyecto/
 ## 📸 Screenshots
 
 ![Test](./Img/test.png)
-![Screenshot 1](../Img/screenshot1.png)
-![Screenshot 2](../Img/screenshot2.png)
-![Screenshot 3](../Img/screenshot3.png)
-![Screenshot 4](../Img/screenshot4.png)
+
 
 ## 🎯 Autoevaluación
 - Funcionalidad: [100]%
@@ -392,7 +389,10 @@ R: Pregunta a tu instructor. Él puede asignar dominios adicionales.
 R: No. Cada dominio es único, tu implementación debe ser original.
 
 ---
-
+![Screenshot 1](.Img/screenshot1.png)
+![Screenshot 2](./Img/screenshot2.png)
+![Screenshot 3](../Img/screenshot3.png)
+![Screenshot 4](Img/screenshot4.png)
 <p align="center">
   <strong>🏛️ ¡Crea tu ficha de información profesional!</strong><br>
   <em>Aplica todo lo aprendido en un proyecto real adaptado a tu dominio</em>
