@@ -355,7 +355,7 @@ apellido-nombre-proyecto/
 
 ## 📸 Screenshots
 
-![Screenshot 1](./Img/screenshot1.png)
+![Test](./Img/test.png)
 
 ![Screenshot 2](./Img/screenshot2.png)
 
