@@ -353,11 +353,6 @@ apellido-nombre-proyecto/
 ## 🚀 Cómo Ejecutar
 1. Abrir index.html en el navegador
 
-## 📸 Screenshots
-
-![Test](./Img/test.png)
-
-
 ## 🎯 Autoevaluación
 - Funcionalidad: [100]%
 - Código ES2023: [100]%
@@ -365,6 +360,12 @@ apellido-nombre-proyecto/
 - Adaptación al Dominio: [80]%
 - **Total Estimado**: [90]%
 ```
+
+## 📸 Screenshots
+![Screenshot 1](Img/screenshot1.png)
+![Screenshot 2](Img/screenshot2.png)
+![Screenshot 3](Img/screenshot3.png)
+![Screenshot 4](Img/screenshot4.png)
 
 ### Plazos de Entrega
 
@@ -389,10 +390,7 @@ R: Pregunta a tu instructor. Él puede asignar dominios adicionales.
 R: No. Cada dominio es único, tu implementación debe ser original.
 
 ---
-![Screenshot 1](.Img/screenshot1.png)
-![Screenshot 2](./Img/screenshot2.png)
-![Screenshot 3](../Img/screenshot3.png)
-![Screenshot 4](Img/screenshot4.png)
+
 <p align="center">
   <strong>🏛️ ¡Crea tu ficha de información profesional!</strong><br>
   <em>Aplica todo lo aprendido en un proyecto real adaptado a tu dominio</em>
