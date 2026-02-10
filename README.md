@@ -355,13 +355,13 @@ apellido-nombre-proyecto/
 
 ## 📸 Screenshots
 
-![Screenshot 1](Img/screenshot1.png)
+![Screenshot 1](./Img/screenshot1.png)
 
-![Screenshot 2](Img/screenshot2.png)
+![Screenshot 2](./Img/screenshot2.png)
 
-![Screenshot 3](Img/screenshot3.png)
+![Screenshot 3](./Img/screenshot3.png)
 
-![Screenshot 4](Img/screenshot4.png)
+![Screenshot 4](./Img/screenshot4.png)
 ## 🎯 Autoevaluación
 - Funcionalidad: [100]%
 - Código ES2023: [100]%
